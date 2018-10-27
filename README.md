@@ -1,7 +1,7 @@
 # Payme
 Example web application to receive money built with Stripe + Firebase
 
-<img src="https://user-images.githubusercontent.com/1413408/47605351-3ebaed00-da40-11e8-8ab1-68f4351ce5f2.png" width="640" />
+<img src="https://user-images.githubusercontent.com/1413408/47605351-3ebaed00-da40-11e8-8ab1-68f4351ce5f2.png" />
 
 ## Features
 You can create your link and start receiving money.
