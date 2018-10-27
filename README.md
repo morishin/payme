@@ -5,6 +5,7 @@ Example web application to receive money built with Stripe + Firebase
 
 ## Features
 You can create your link and start receiving money.
+
 `https://<your-firebase-project-id>.firebaseapp.com/<ammount>`
 
 <img src="https://user-images.githubusercontent.com/1413408/47605421-44650280-da41-11e8-95b7-d9b7f9377ada.png" width="480"/>
