@@ -10,11 +10,14 @@
   },
   "main": "lib/index.js",
   "dependencies": {
+    "cors": "^2.8.4",
     "firebase-admin": "~6.0.0",
-    "firebase-functions": "^2.1.0"
+    "firebase-functions": "^2.1.0",
+    "stripe": "^6.12.1"
   },
   "devDependencies": {
-    "typescript": "~2.8.3"
+    "typescript": "~2.8.3",
+    "@types/stripe": "^6.0.3"
   },
   "private": true
 }
