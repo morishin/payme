@@ -1,10 +1,12 @@
 # Payme
 Example web application to receive money built with Stripe + Firebase
 
+(inspired by [gordonnl/firebase-stripe](https://github.com/gordonnl/firebase-stripe))
+
 <img src="https://user-images.githubusercontent.com/1413408/47605351-3ebaed00-da40-11e8-8ab1-68f4351ce5f2.png" />
 
 ## Features
-You can create your link and start receiving money.
+You can create your link and start receiving any amount of money spacified as URL.
 
 `https://<your-firebase-project-id>.firebaseapp.com/<ammount>`
 
@@ -12,7 +14,7 @@ You can create your link and start receiving money.
 
 <img width="480" alt="2018-10-27 23 41 25" src="https://user-images.githubusercontent.com/1413408/47605478-d4a34780-da41-11e8-8831-ecda8fc509e6.png">
 
-## Deploy and test
+## Deploy and test payment
 
 1. Create a Firebase Project using the [Firebase Developer Console](https://console.firebase.google.com)
 1. Enable billing on your project by switching to the **Blaze** (or Flame) plan. See [pricing](https://firebase.google.com/pricing/) for more details. This is required to be able to do requests to non-Google services.
